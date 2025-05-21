@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 291.73 282.57">
+  <defs>
+    <style>
+      .f {
+        fill: url(#d);
+      }
+
+      .g {
+        fill: url(#e);
+      }
+
+      .h {
+        fill: url(#c);
+      }
+
+      .i {
+        fill: #ff5c35;
+      }
+    </style>
+    <linearGradient id="c" x1="141.72" y1="268.95" x2="141.72" y2="1.43" gradientTransform="translate(0 284) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#ff814e"/>
+      <stop offset=".82" stop-color="#ff5c35"/>
+    </linearGradient>
+    <linearGradient id="d" x1="247.22" y1="283.36" x2="247.22" y2="65.33" gradientTransform="translate(71.52 -136.6) rotate(89.69) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".18" stop-color="#ff824e"/>
+      <stop offset=".45" stop-color="#ff7e4b"/>
+      <stop offset=".71" stop-color="#ff7243"/>
+      <stop offset=".97" stop-color="#ff5e36"/>
+      <stop offset="1" stop-color="#ff5c35"/>
+    </linearGradient>
+    <linearGradient id="e" x1="1585.77" y1="-7323.14" x2="1705.59" y2="-7451.2" gradientTransform="translate(7567.71 -1718.9) rotate(89.97) scale(1.07 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".27" stop-color="#ff824e"/>
+      <stop offset=".74" stop-color="#ffa766"/>
+    </linearGradient>
+  </defs>
+  <g id="b" data-name="Layer 1-2">
+    <g>
+      <path class="h" d="m283.45,90.53l-199.37,179.61c-21.2,18.38-53.28,16.11-71.66-5.09-17.89-20.63-16.28-51.71,3.65-70.37L215.45,15.05"/>
+      <rect class="f" x="138.19" y="65.86" width="218.03" height="87.61" rx="43.8" ry="43.8" transform="translate(136.2 356.27) rotate(-89.69)"/>
+      <path class="g" d="m291.73,43.73h0c.01,24.16-19.56,43.76-43.73,43.77l-128.94.07c-24.16.01-43.76-19.56-43.77-43.73h0C75.27,19.68,94.85.08,119.01.07L247.95,0c24.16-.01,43.76,19.56,43.77,43.73Z"/>
+      <circle class="i" cx="117.58" cy="43.88" r="43.83"/>
+    </g>
+  </g>
+</svg>
